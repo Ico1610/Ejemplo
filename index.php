@@ -11,5 +11,7 @@
     <h2>Quibo soy el pariente</h2>
     <h1>Soy el h1</h1>
     <h3>Soy el victor emmanuel</h3>
+    <h1>Soto Graciano</h1>
+    <h2>Muestra para el ejemplo</h2>
 </body>
 </html>
